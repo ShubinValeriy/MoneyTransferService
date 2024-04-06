@@ -1,0 +1,57 @@
+[2024-04-06T11:51:39.821904] Invalid transferUnit :/Incorrect sender's card number
+[2024-04-06T11:51:56.910370] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T11:52:02.994569] Error to confirm the operation! Unknown transferUnit for confirm operation info: ConfirmOperationInfo{operationId='2', code='0000'}
+[2024-04-06T11:52:26.722298] Invalid confirmOperationInfo :/Incorrect confirm CODE
+[2024-04-06T11:52:48.988008] Confirm Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T12:05:49.064088] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T12:05:53.199461] Confirm Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T12:05:53.883279] Error to confirm the operation! This transferUnit was confirm earlier: ConfirmOperationInfo{operationId='1', code='0000'}
+[2024-04-06T15:42:53.797008] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T15:43:10.605924] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T15:43:11.752864] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T15:43:12.313156] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T15:43:14.464480] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T15:43:14.788800] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T15:43:15.430559] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T15:53:03.425016] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T16:20:38.679530] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T16:20:59.548498] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T16:29:22.141934] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T16:30:06.533475] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T16:30:15.151533] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T16:30:30.090650] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T16:30:48.548362] Confirm Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T16:30:52.027343] Error to confirm the operation! This transferUnit was confirm earlier: ConfirmOperationInfo{operationId='1', code='0000'}
+[2024-04-06T16:32:43.808657] Add Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T16:32:46.925710] Confirm Transfer Unit: TransferUnit{cardFromNumber='0000000000000000', cardToNumber='1111111111111112', amount=Amount{value=100.0, currency='RUR'}}
+[2024-04-06T16:32:52.687556] Error to confirm the operation! This transferUnit was confirm earlier: ConfirmOperationInfo{operationId='1', code='0000'}
+[2024-04-06T16:43:53.063943] Error base transfer units is empty: ConfirmOperationInfo{operationId='1', code='0000'}
+[2024-04-06T16:43:57.829418] Error base transfer units is empty: ConfirmOperationInfo{operationId='1', code='0000'}
+[2024-04-06T16:44:01.388436] Error base transfer units is empty: ConfirmOperationInfo{operationId='1', code='0000'}
+[2024-04-06T16:49:40.870260] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T16:50:48.271205] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T16:59:03.496913] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:05:51.192271] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:06:06.674430] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:06:06.680955] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:07:13.119980] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:07:13.126250] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:07:55.927836] Invalid transferUnit :/Incorrect sender's card number
+[2024-04-06T17:08:02.104881] Invalid transferUnit :/Incorrect sender's card number/Incorrect recipient card number
+[2024-04-06T17:08:09.340190] Invalid transferUnit :/Incorrect sender's card number/Incorrect sender's card CVV/Incorrect recipient card number
+[2024-04-06T17:08:13.387743] Invalid transferUnit :/Incorrect sender's card number/Incorrect sender's card CVV/Incorrect sender's card Data Valid Till/Incorrect recipient card number
+[2024-04-06T17:08:32.137966] Invalid transferUnit :/Incorrect sender's card number/Incorrect sender's card CVV/Incorrect sender's card Data Valid Till/Incorrect recipient card number/Incorrect transfer Amount
+[2024-04-06T17:19:20.529370] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:19:20.532695] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:23:08.842938] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:23:08.845691] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:56:12.159709] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:56:12.163643] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:57:11.696669] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T17:57:11.699581] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T18:45:57.839300] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T18:45:57.842734] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T18:49:12.701113] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T18:49:12.704772] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T18:49:27.098841] Confirm Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
+[2024-04-06T18:49:27.103155] Add Transfer Unit: TransferUnit{cardFromNumber='1234567891234567', cardToNumber='9876543217654321', amount=Amount{value=50.0, currency='RUR'}}
